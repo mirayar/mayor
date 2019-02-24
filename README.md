@@ -1,0 +1,2 @@
+# mayor
+cep telefonu uygulamam
